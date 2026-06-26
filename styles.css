@@ -1,8 +1,9 @@
 .hero {
-    background: lightgoldenrodyellow;
+    background: lightseagreen;
     padding: 100px 20px;
 }
 .hero h1{
+    color: black;
     font-size: 3px;
     margin-bottom: 20px;
 
