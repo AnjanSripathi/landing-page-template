@@ -1,10 +1,10 @@
 .hero {
-    background: lightseagreen;
+    background: greenyellow;
     padding: 100px 20px;
 }
 .hero h1{
     color: black;
-    font-size: 3px;
+    font-size: 3em;
     margin-bottom: 20px;
 
 }
