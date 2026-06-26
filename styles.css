@@ -21,4 +21,10 @@ ul li{
     word-spacing: 1 px;
     color:beige;
 }
-
+.container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
