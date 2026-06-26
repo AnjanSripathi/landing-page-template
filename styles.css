@@ -22,8 +22,8 @@ ul li{
     color:beige;
 }
 .container {
-  border: 2px solid #ccc;
-  background-color: #eee;
+  border: 2px solid ghostwhite;
+  background-color: black;
   border-radius: 5px;
   padding: 16px;
   margin: 16px 0;
